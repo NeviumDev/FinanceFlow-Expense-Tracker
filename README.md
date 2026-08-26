@@ -150,4 +150,4 @@ Tests automatizados
 Progressive Web App
 Licencia
 
-Este proyecto está disponible con fines educativos y de portfolio.
+**Este proyecto está disponible con fines educativos y de portfolio.**
